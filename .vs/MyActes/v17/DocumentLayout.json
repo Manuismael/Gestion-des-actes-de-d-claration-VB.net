@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\MyActes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C173FD0-105D-4C32-801E-D06013D71099}|MyActes\\MyActes.vbproj|c:\\users\\manu\\documents\\visual studio 2015\\projects\\myactes\\myactes\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2C173FD0-105D-4C32-801E-D06013D71099}|MyActes\\MyActes.vbproj|solutionrelative:myactes\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MyActes||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C173FD0-105D-4C32-801E-D06013D71099}|MyActes\\MyActes.vbproj|c:\\users\\manu\\documents\\visual studio 2015\\projects\\myactes\\myactes\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2C173FD0-105D-4C32-801E-D06013D71099}|MyActes\\MyActes.vbproj|solutionrelative:myactes\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C173FD0-105D-4C32-801E-D06013D71099}|MyActes\\MyActes.vbproj|c:\\users\\manu\\documents\\visual studio 2015\\projects\\myactes\\myactes\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyActes",
+              "DocumentMoniker": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\MyActes\\MyActes\\MyActes.vbproj",
+              "RelativeDocumentMoniker": "MyActes\\MyActes.vbproj",
+              "ToolTip": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\MyActes\\MyActes\\MyActes.vbproj",
+              "RelativeToolTip": "MyActes\\MyActes.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-20T17:54:08.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.vb",
+              "DocumentMoniker": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\MyActes\\MyActes\\Dashboard.vb",
+              "RelativeDocumentMoniker": "MyActes\\Dashboard.vb",
+              "ToolTip": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\MyActes\\MyActes\\Dashboard.vb",
+              "RelativeToolTip": "MyActes\\Dashboard.vb",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAiwFIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-20T17:51:22.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\MyActes\\MyActes\\Dashboard.vb",
+              "RelativeDocumentMoniker": "MyActes\\Dashboard.vb",
+              "ToolTip": "C:\\Users\\Manu\\Documents\\Visual Studio 2015\\Projects\\MyActes\\MyActes\\Dashboard.vb [Design]",
+              "RelativeToolTip": "MyActes\\Dashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-20T17:51:16.427Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
